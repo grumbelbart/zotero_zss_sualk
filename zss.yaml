@@ -1,0 +1,3 @@
+uwsgi:
+  plugin: psgi
+  psgi: /path/to/zss.psgi
